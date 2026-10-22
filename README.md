@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** This copy preserves the AnythingLLM project documentation, including upstream product links and installation instructions. For this checkout, use `scottjoyner/anything-llm` as the Git remote; the upstream README and badges should not be interpreted as CI or release results for this copy.
+> >
+> > **Before self-hosting:** Review the environment template, persistence, authentication, and model-provider configuration. Never commit API keys or instance credentials.
+<!-- repo-entrypoint-guide:end -->
+
 <a name="readme-top"></a>
 
 <p align="center">
